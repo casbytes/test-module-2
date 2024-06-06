@@ -1,0 +1,38 @@
+[
+  {
+    "id": 0,
+    "isMultiple": true,
+    "question": "Which of the following are valid ways to declare a variable in JavaScript?",
+    "options": [
+      { "id": 0, "text": "var" },
+      { "id": 1, "text": "let" },
+      { "id": 2, "text": "const" },
+      { "id": 3, "text": "declare" }
+    ],
+    "correctAnswer": [0, 1, 2]
+  },
+  {
+    "id": 1,
+    "isMultiple": false,
+    "question": "What is the output of `console.log(typeof null)`?",
+    "options": [
+      { "id": 0, "text": "null" },
+      { "id": 1, "text": "undefined" },
+      { "id": 2, "text": "object" },
+      { "id": 3, "text": "boolean" }
+    ],
+    "correctAnswer": [2]
+  },
+  {
+    "id": 2,
+    "isMultiple": false,
+    "question": "Which method is used to add an element to the end of an array in JavaScript?",
+    "options": [
+      { "id": 0, "text": "push()" },
+      { "id": 1, "text": "pop()" },
+      { "id": 2, "text": "shift()" },
+      { "id": 3, "text": "unshift()" }
+    ],
+    "correctAnswer": [0]
+  }
+]
